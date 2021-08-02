@@ -1,0 +1,652 @@
+.__Header {
+  article {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 15px;
+    color: #333;
+    vertical-align: baseline;
+    outline: 0;
+  }
+  audio {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 15px;
+    color: #333;
+    vertical-align: baseline;
+    outline: 0;
+  }
+  b {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 15px;
+    color: #333;
+    vertical-align: baseline;
+    outline: 0;
+  }
+  body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 15px;
+    color: #333;
+    vertical-align: baseline;
+    outline: 0;
+  }
+  dd {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 15px;
+    color: #333;
+    vertical-align: baseline;
+    outline: 0;
+  }
+  header {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 15px;
+    color: #333;
+    vertical-align: baseline;
+    outline: 0;
+  }
+  html {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 15px;
+    color: #333;
+    vertical-align: baseline;
+    outline: 0;
+  }
+  i {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 15px;
+    color: #333;
+    vertical-align: baseline;
+    outline: 0;
+  }
+  img {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 15px;
+    color: #333;
+    vertical-align: baseline;
+    outline: 0;
+  }
+  li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 15px;
+    color: #333;
+    vertical-align: baseline;
+    outline: 0;
+  }
+  s {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 15px;
+    color: #333;
+    vertical-align: baseline;
+    outline: 0;
+  }
+  section {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 15px;
+    color: #333;
+    vertical-align: baseline;
+    outline: 0;
+  }
+  span {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 15px;
+    color: #333;
+    vertical-align: baseline;
+    outline: 0;
+  }
+  u {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 15px;
+    color: #333;
+    vertical-align: baseline;
+    outline: 0;
+  }
+  ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 15px;
+    color: #333;
+    vertical-align: baseline;
+    outline: 0;
+    margin: 0 0 0 18px;
+    list-style-type: disc;
+    padding: 0 0 1.3em;
+    list-style: none;
+  }
+  .header-section {
+    width: 100%;
+    height: auto;
+    background-color: #fff;
+    left: 0;
+  }
+  .headerArea {
+    width: 100%;
+    // min-width: 1000px;
+    background-image: radial-gradient(
+      circle at center bottom,
+      #4f90c1 0,
+      #12161a 100%
+    );
+    height: 175px;
+    border-bottom: 1px solid #333;
+  }
+  .header-bg-container {
+    position: relative;
+    opacity: 0.4;
+    div {
+      filter: hue-rotate(210deg);
+    }
+  }
+  .header-bg-1 {
+    top: -35px;
+    left: 15%;
+    width: 85%;
+    height: 209px;
+    background-image: url(https://uk.webuy.com/_nuxt/857f42bd0555dfe5d3859951782b9d4f.png);
+    position: absolute;
+    overflow: hidden;
+    background-repeat: repeat;
+  }
+  .header-bg-2 {
+    position: absolute;
+    overflow: hidden;
+    background-repeat: repeat;
+    display: block;
+    top: -5px;
+    left: 0;
+    width: 100%;
+    height: 179px;
+    background-image: url(https://uk.webuy.com/_nuxt/0b07a797a2e991d8990517a14534026c.png);
+  }
+  .header-bg-3 {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 15%;
+    width: 85%;
+    height: 174px;
+    overflow: hidden;
+    background-image: url(https://uk.webuy.com/_nuxt/2a6fe8fc7f0a0e15e4d1ec368b3001e2.png);
+    background-repeat: repeat-y;
+    background-position: 50px -20px;
+  }
+  .navBar {
+    background-color: transparent;
+    // min-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    position: relative;
+    width: 100%;
+    max-width: 1600px;
+  }
+  .topLinksArea {
+    width: 100%;
+    max-width: 1600px;
+    display: block;
+    float: right;
+    height: 60px;
+    margin: -1px;
+    position: absolute;
+    ul {
+      display: block;
+      list-style-type: none;
+      width: 100%;
+      padding: 0;
+      margin: 0;
+      overflow: hidden;
+    }
+    li {
+      a {
+        color: #ffc;
+        line-height: 30px;
+        text-align: center;
+        font-weight: 400;
+        width: 119px;
+        height: 54px;
+        position: absolute;
+        filter: hue-rotate(215deg);
+
+        background-image: url(https://uk.webuy.com/_nuxt/0077f9ea0146b24c8d04170fb5e03c04.png);
+        background-repeat: no-repeat;
+        text-decoration: none;
+        display: block;
+      }
+    }
+  }
+  .helpTopLink {
+    right: 0;
+    z-index: 7;
+  }
+  .uk {
+    .clsRepair {
+      .helpTopLink {
+        right: 0;
+        z-index: 8;
+      }
+      .franchisingTopLink {
+        right: 110px;
+        z-index: 7;
+      }
+      .repairs {
+        right: 210px;
+        z-index: 6;
+      }
+      .stores {
+        right: 320px;
+        z-index: 5;
+      }
+      .careers {
+        right: 430px;
+        z-index: 4;
+      }
+      .about {
+        right: 540px;
+        z-index: 3;
+      }
+      .sign_up {
+        right: 650px;
+        z-index: 2;
+      }
+      .sign_in {
+        right: 760px;
+        z-index: 1;
+      }
+      .myaccount {
+        right: 650px;
+        z-index: 2;
+      }
+    }
+  }
+  .franchisingTopLink {
+    right: 110px;
+    z-index: 6;
+  }
+  .stores {
+    right: 210px;
+    z-index: 5;
+  }
+  .careers {
+    right: 320px;
+    z-index: 4;
+  }
+  .about {
+    right: 430px;
+    z-index: 3;
+  }
+  .sign_up {
+    right: 540px;
+    z-index: 2;
+  }
+  .sign_in {
+    right: 650px;
+    z-index: 1;
+  }
+  .myaccount {
+    z-index: 1;
+    right: 540px;
+    z-index: 2;
+  }
+  .catbar {
+    width: 100%;
+    max-width: 1600px;
+    margin-left: 0;
+    margin-right: 0;
+    top: 175px;
+    position: absolute;
+    li {
+      a {
+        display: block;
+        width: 244px;
+        height: 115px;
+        position: absolute;
+        background-repeat: no-repeat;
+        bottom: 0;
+      }
+    }
+    ul {
+      display: block;
+      list-style-type: none;
+      float: left;
+      width: 100%;
+      padding: 0;
+      margin: 0;
+      overflow: hidden;
+    }
+  }
+  .cexLogo {
+    filter: drop-shadow(2px 4px 6px black);
+    position: absolute;
+    height: 162px;
+    width: 224px;
+    left: 15px;
+    bottom: 6.5px;
+    display: block;
+    z-index: 28;
+  }
+  .cex-logo-link {
+    display: block;
+    width: 244px;
+    height: 115px;
+    position: absolute;
+    background-repeat: no-repeat;
+    bottom: 0;
+  }
+  #tab-cat1 {
+    background-image: url(https://uk.webuy.com/_nuxt/b00c3e5dce4c251d78f95384d4948259.png);
+    right: 21%;
+    z-index: 27;
+  }
+  #tab-cat4 {
+    background-image: url(https://uk.webuy.com/_nuxt/6a5e1318f44d58716a2a1d9ce97ebac7.png);
+    right: 11%;
+    z-index: 26;
+  }
+  #tab-cat5 {
+    background-image: url(https://uk.webuy.com/_nuxt/8fe0b59088c5360adcdf2427bcce9817.png);
+    right: 1%;
+    z-index: 25;
+  }
+  #topMenuContainer {
+    .subMenuSection {
+      position: absolute;
+      top: 0;
+      width: calc(100% - 2px);
+      z-index: 10000;
+      margin: 0;
+      padding: 28px 0;
+      height: auto;
+    }
+    .superCat1DropDownMenu {
+      background-color: #a9d3f5;
+      border: 1px solid #333;
+      margin-top: -1px !important;
+    }
+    .superCatMenu {
+      vertical-align: middle;
+      width: 100%;
+      height: 100%;
+      margin: 0 auto;
+      text-align: center;
+      a {
+        border: 0 none;
+        color: #333;
+        font-size: 14px;
+        margin: 0;
+        outline: none medium;
+        vertical-align: middle;
+        white-space: nowrap;
+        position: unset;
+        width: 20%;
+        line-height: 1.2;
+        display: inline-block;
+        padding: 0 0 0 5%;
+        text-overflow: ellipsis;
+        cursor: pointer;
+        text-align: left;
+        overflow: hidden !important;
+        span {
+          width: auto;
+          line-height: 26px;
+          text-overflow: ellipsis;
+          overflow: hidden;
+          white-space: nowrap;
+          display: inline-block;
+          max-width: 160px;
+          transition: margin-left 0.2s ease-in-out 0s;
+          font-size: 14px;
+          float: left;
+          text-transform: capitalize;
+        }
+        &:hover {
+          span {
+            font-weight: 600;
+            position: relative;
+            font-size: 14px;
+            &::after {
+              content: "";
+              display: block;
+              width: 100%;
+              height: 1px;
+              background-color: #333;
+              position: absolute;
+              left: 0;
+              bottom: 3px;
+            }
+          }
+        }
+        i {
+          float: right;
+          font-size: 20px;
+          color: #333;
+          vertical-align: top;
+          margin-top: 5px;
+        }
+      }
+      a.active {
+        span {
+          font-weight: 600;
+          position: relative;
+          font-size: 14px;
+        }
+      }
+    }
+    .superCatMenu.lessitem {
+      a {
+        float: left;
+      }
+    }
+    .superCat4DropDownMenu {
+      background-color: #fee896;
+      border: 1px solid #333;
+      margin-top: -1px !important;
+    }
+    .superCat5DropDownMenu {
+      background-color: #a9c5ff;
+      border: 1px solid #333;
+      margin-top: -1px !important;
+    }
+  }
+  .superCat1DropDownMenu {
+    .superCatDropDownMenu_arw {
+      content: "";
+      display: block;
+      position: absolute;
+      left: 74%;
+      top: -16px;
+      width: 42px;
+      height: 16px;
+      background: url(https://uk.webuy.com/arrows/games.svg) no-repeat;
+    }
+  }
+  .subMenuSection {
+    .subMenuSectionWrap {
+      width: 980px;
+      margin: 0 auto;
+      height: 100%;
+      vertical-align: middle;
+      padding: 0;
+      clear: left;
+    }
+  }
+  .productLineMenu {
+    .superCatMenu {
+      a {
+        span {
+          font-size: 14px !important;
+        }
+        &:hover {
+          span {
+            font-weight: 600;
+            position: relative;
+            font-size: 14px !important;
+          }
+        }
+      }
+      a.active {
+        span {
+          font-weight: 600;
+          position: relative;
+          font-size: 14px !important;
+        }
+      }
+    }
+  }
+  .material-icons {
+    font-family: "Material Icons";
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    overflow-wrap: normal;
+    direction: ltr;
+    font-feature-settings: "liga";
+    -webkit-font-smoothing: antialiased;
+  }
+  .superCatTitle {
+    font-size: 14px;
+    font-weight: 700;
+    height: 100%;
+    margin-bottom: 10px;
+    cursor: pointer;
+    color: #333;
+    vertical-align: middle;
+    i {
+      color: #333;
+      vertical-align: middle;
+      font-size: 20px;
+      margin-right: 2.4%;
+      margin-top: -1.2px;
+    }
+  }
+  .superCat4DropDownMenu {
+    .superCatDropDownMenu_arw {
+      content: "";
+      display: block;
+      position: absolute;
+      left: 84%;
+      top: -16px;
+      width: 42px;
+      height: 16px;
+      background: url(https://uk.webuy.com/arrows/phones.svg) no-repeat;
+    }
+  }
+  .superCat5DropDownMenu {
+    .superCatDropDownMenu_arw {
+      content: "";
+      display: block;
+      position: absolute;
+      left: 94%;
+      top: -16px;
+      width: 42px;
+      height: 16px;
+      background: url(https://uk.webuy.com/arrows/electronics.svg) no-repeat;
+    }
+  }
+  .carousel-item,
+  .carousel-inner,
+  .carousel-item img {
+    width: 100% !important;
+    height: 100%;
+  }
+  #headerBanner {
+    height: auto;
+    max-width: 1576px;
+    // min-width: 985px;
+    padding-left: 0.45%;
+    padding-right: 0.75%;
+    margin: 10px auto 0;
+    position: relative;
+    z-index: 1000;
+    .carousel-i {
+      img {
+        border: 1px solid #333;
+        width: calc(100% - 10px);
+        margin: 0 5px;
+      }
+    }
+  }
+  .VueCarousel {
+    position: relative;
+  }
+  .VueCarousel-wrapper {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+  }
+  .VueCarousel-inner {
+    display: flex;
+    flex-direction: row;
+    backface-visibility: hidden;
+    flex-basis: 33%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .VueCarousel-slide {
+    flex-basis: inherit;
+    flex-grow: 0;
+    flex-shrink: 0;
+    user-select: none;
+    backface-visibility: hidden;
+    outline: 0;
+  }
+  @media screen and (max-width: 1168px) {
+    .cexLogo {
+      height: 150px;
+      width: 180px;
+      left: 16px;
+      bottom: -17px;
+      display: block;
+      z-index: 28;
+      background-repeat: no-repeat;
+      background-size: 170px 130px;
+    }
+  }
+  @media screen and (max-width: 1024px) {
+    .superCat1DropDownMenu {
+      .superCatDropDownMenu_arw {
+        left: 43%;
+      }
+    }
+    .superCat4DropDownMenu {
+      .superCatDropDownMenu_arw {
+        left: 52%;
+      }
+    }
+    .superCat5DropDownMenu {
+      .superCatDropDownMenu_arw {
+        left: 62.5%;
+      }
+    }
+  }
+}

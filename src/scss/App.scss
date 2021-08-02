@@ -1,0 +1,133 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.searchBar * {
+  box-sizing: unset !important;
+}
+
+.navbar {
+  padding-bottom: 0px !important;
+  .nav-link {
+    padding: 10px !important;
+  }
+  .dropdown-item:hover {
+    background-color: #ccc;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  #topLinksArea {
+    display: none;
+  }
+  .__Header .cexLogo {
+    width: 55% !important;
+    height: 100% !important;
+    bottom: 0px !important;
+    top: -57% !important;
+    // width: 45% !important;
+    // height: 65% !important;
+    // bottom: 0px !important;
+    // top: -44% !important;
+  }
+  .__navbar {
+    display: block !important;
+  }
+
+  .__Header .carousel-item,
+  .__Header .carousel-inner,
+  .__Header .carousel-item img {
+    height: 100% !important;
+  }
+
+  .__Header .catbar li a {
+    width: 50% !important;
+    height: 85px !important;
+    background-repeat: round !important;
+  }
+
+  .__Header #tab-cat5 {
+    right: 0% !important;
+  }
+  .__Header #tab-cat4 {
+    right: 25% !important;
+  }
+  .__Header #tab-cat1 {
+    right: 50% !important;
+  }
+  .__Layout .mainPageArea {
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+  }
+  .__Layout .centreColArea.centerColAreaW75,
+  .__Layout .rightColArea {
+    width: 100% !important;
+  }
+  .__Layout .searchDropDown li,
+  .__Basket .searchDropDown li {
+    width: 100px !important;
+  }
+  .__Footer .footerLinks {
+    display: none !important;
+  }
+  .__Footer .footerArea {
+    height: 100% !important;
+  }
+  .__Footer .policyLinks li {
+    margin: 8px !important;
+  }
+  .__Footer .copyrightText {
+    padding-bottom: 100px !important;
+  }
+  .__ProductCard .hotproducts {
+    width: 80% !important;
+  }
+  .__ProductCard {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+  }
+  .__Product {
+    width: 100% !important;
+  }
+  .__Product .productArea {
+    margin: 0px !important;
+    border: none !important;
+  }
+  .__Product .superCatLink {
+    border: none !important;
+  }
+  .__Product .customproductArea .productInfoImageArea {
+    width: 90% !important;
+  }
+  .t058-badge-container.t058-sappix64ggrunlb.t058-pdp {
+    display: none !important;
+  }
+  .__Basket .ckoutflt-Left,
+  .__Basket .ckoutflt-Right,
+  .__Basket .cex_continueBar {
+    float: none !important;
+    width: 100% !important;
+    padding: 0px !important;
+  }
+  .__Basket .chktableout {
+    width: 100% !important;
+    overflow: scroll !important;
+  }
+  .__Product .customproductArea .superCatLink {
+    padding: 3px 0px !important;
+  }
+  .__Basket .cex_continueBar {
+    padding: 6px 8px !important;
+  }
+  .__TermsAndConditions .content-area {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: 0 !important;
+  }
+}
